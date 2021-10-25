@@ -1,0 +1,8 @@
+{
+"type": "record",
+"namespace": "com.reader.csvreader",
+"name": "GenericSchema",
+"fields": [
+  { "name": "col1", "type": "string" }
+]
+}
